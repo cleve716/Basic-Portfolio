@@ -3,7 +3,7 @@
 
 body{
   
-    background:rgb(182, 176, 176);
+    background:url("../images/concrete_seamless.png");
 
   width:960px;
     margin: auto;
@@ -112,7 +112,7 @@ input{
   margin-bottom: 15px;
  
 }
- #fname,#lname{
+ #fname,#email{
    background: white;
    width: 906px;
    color: black;
