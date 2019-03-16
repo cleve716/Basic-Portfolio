@@ -5,4 +5,4 @@ I am unsure if it was prudent to place the video solution of the portfolio homew
 
 After I viewed the video, I realized that there was quite a bit of coding that the video instructor was doing that we had never been exposed to, like nth child, the idea of placing the portfolio images in an unordered list, etc. Viewing the video prior to starting basically gives it all away.
 
-Soooo... my Portfolio has some issues: No text boxes on top of images on the portfolio page, no reset.css, and a navbar that I couldn't get to go across the entire page. That being stated, I think I did pretty well.
+That being stated, I think I did pretty well.
